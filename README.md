@@ -26,16 +26,8 @@ To use this system:
 ## Citation
 If you find this work helpful or utilize this implementation in your research, please consider citing the original article:
 
-@article{hewahi2009age,
-title={Age estimation based on neural networks using face features},
-author={Hewahi, Nabil and Ghouti, Lahouari and Al-Hamadi, Ayoub},
-journal={International Journal of Computer Applications},
-volume={1},
-number={16},
-pages={70--78},
-year={2009},
-publisher={Foundation of Computer Science (FCS), NY, USA}
-}
+[Nabil Hewahi, Lahouari Ghouti, and Ayoub Al-Hamadi. "Age estimation based on neural networks using face features." International Journal of Computer Applications 1, no. 16 (2009): 70-78.](https://www.researchgate.net/profile/Nabil-Hewahi/publication/47277288_Age_Estimation_based_on_Neural_Networks_using_Face_Features/links/0912f50a9b50c57f08000000/Age-Estimation-based-on-Neural-Networks-using-Face-Features.pdf)
+
 
 ## Disclaimer
 This implementation is provided as is, without any guarantees or warranties. Use it at your own discretion.
