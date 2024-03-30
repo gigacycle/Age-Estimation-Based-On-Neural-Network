@@ -1,6 +1,6 @@
-# Age Estimation based on Neural Networks using Face Features
+# Age Estimation based on Neural Networks using Face Features (2010 Implementation)
 
-This repository contains MATLAB implementation of an age estimation system based on neural networks using face features, as described in the article "Age Estimation based on Neural Networks using Face Features" by Nabil Hewahi.
+This repository contains a MATLAB implementation of an age estimation system based on neural networks using face features, originally developed in 2010. The implementation follows the methodology described in the article "Age Estimation based on Neural Networks using Face Features" by Nabil Hewahi, Lahouari Ghouti, and Ayoub Al-Hamadi.
 
 ## Overview
 The implemented system utilizes neural networks to estimate the age of individuals based on facial features. It processes images and extracts relevant features for age estimation. The neural network model is trained on the FG-NET dataset.
