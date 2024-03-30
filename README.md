@@ -23,6 +23,13 @@ To use this system:
 3. Run the MATLAB scripts to execute the age estimation system.
 4. If you have an alternative dataset, replace the FG-NET dataset paths with your dataset paths in the code.
 
+### Running the GUI
+If you prefer to use the GUI for running the age estimation system, follow these steps:
+1. Open MATLAB.
+2. Navigate to the directory where you cloned this repository.
+3. Run the main GUI script (e.g., `GUI.m`) by typing its name in the MATLAB command window and pressing Enter.
+4. The GUI interface should now be visible. Follow the on-screen instructions to interact with the age estimation system.
+
 ## Citation
 If you find this work helpful or utilize this implementation in your research, please consider citing the original article:
 
