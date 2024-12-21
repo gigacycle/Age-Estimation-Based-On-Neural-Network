@@ -33,7 +33,9 @@ If you prefer to use the GUI for running the age estimation system, follow these
 ## Citation
 If you find this work helpful or utilize this implementation in your research, please consider citing the original article:
 
-[Nabil Hewahi, Lahouari Ghouti, and Ayoub Al-Hamadi. "Age estimation based on neural networks using face features." International Journal of Computer Applications 1, no. 16 (2009): 70-78.](https://www.researchgate.net/profile/Nabil-Hewahi/publication/47277288_Age_Estimation_based_on_Neural_Networks_using_Face_Features/links/0912f50a9b50c57f08000000/Age-Estimation-based-on-Neural-Networks-using-Face-Features.pdf)
+VOL. 1, NO. 2, Oct 2010 E-ISSN 2218-6301 Journal of Emerging Trends in Computing and Information Sciences©2009-2010 CIS Journal. All rights reserved. http://www.cisjournal.org Age Estimation based on Neural Networks using Face FeaturesNabil Hewahi, Aya Olwan, Nebal Tubeel, Salha EL-Asar, Zeinab Abu
+
+(PDF) Age Estimation based on Neural Networks using Face Features. Available from: https://www.researchgate.net/publication/47277288_Age_Estimation_based_on_Neural_Networks_using_Face_Features#fullTextFileContent [accessed Dec 21 2024].
 
 
 ## Disclaimer
